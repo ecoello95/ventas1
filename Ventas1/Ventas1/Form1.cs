@@ -19,7 +19,7 @@ namespace Ventas1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola mundo");
+            MessageBox.Show("Primero la fe, después las señales");
         }
     }
 }
